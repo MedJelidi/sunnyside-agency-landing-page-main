@@ -6,4 +6,4 @@ An attempt to remake the above Sunnyside agency landing page. Challenge by [Fron
 
 # Result
 
-https://tip-calculator-app-main-1l6.pages.dev/
+https://sunnyside-agency-landing-page-main-edw.pages.dev/
